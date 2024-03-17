@@ -1,21 +1,18 @@
-<h2> hi, i'm laura chen! <img alt="catcode" src="https://camo.githubusercontent.com/0df1c27a194a654fe3b03c9dfe318fb0c9a62e994ed1042e611408aa3f4fa3f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width='50'> </h2>
+<h2> hi, i'm shashwat mishra! <img alt="catcode" src="https://camo.githubusercontent.com/0df1c27a194a654fe3b03c9dfe318fb0c9a62e994ed1042e611408aa3f4fa3f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width='50'> </h2>
 
- :love_letter: [laurachen.me](https://laurachen.me)
+ :love_letter: [shashwatmishra.me](https://laurachen.me)
 
 welcome to my corner of the internet :computer:
 
 ```javascript
-const laura = {
-  pronouns: ["she", "her"],
-  code: ["javascript", "typescript", "python", "java", "html", "css"],
+const shashwat = {
+  pronouns: ["he", "him"],
+  code: ["javascript", "typescript", "python", "c++", "html", "css"],
   tools: ["react", "next.js", "tailwind", "mongodb", "node"],
-  school: ["new york university"],
+  school: ["university of cincinnati"],
   clubs: {
-    "math society": {
-      role: "president"
-    },
-    "women in computing": {
-      role: "marketing"
+    "Society of Asian Scientists and Engineers (SASE) ": {
+      role: "E-Board Intern"
     }
   }
 }
