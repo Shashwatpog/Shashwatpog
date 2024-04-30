@@ -12,7 +12,7 @@ const shashwat = {
   school: ["university of cincinnati"],
   clubs: {
     "Society of Asian Scientists and Engineers (SASE) ": {
-      role: "E-Board Intern"
+      role: "Treasurer"
     }
   }
 }
