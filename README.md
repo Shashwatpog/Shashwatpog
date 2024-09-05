@@ -1,4 +1,4 @@
-<h2> hi, i'm shashwat mishra! <img alt="catcode" src="https://camo.githubusercontent.com/0df1c27a194a654fe3b03c9dfe318fb0c9a62e994ed1042e611408aa3f4fa3f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width='50'> </h2>
+<h2> hi, i'm shashwat mishra! <img alt="catcode" src="![image](https://github.com/user-attachments/assets/ae356a8c-18e7-4a1e-9d5f-c898a5c30131)" width='50'> </h2>
 
  :love_letter: [shashwatmishra.me](http://shashwatmishra.me/)
 
