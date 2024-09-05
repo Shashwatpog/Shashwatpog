@@ -1,4 +1,5 @@
-<h2> hi, i'm shashwat mishra! <img src="![image](https://github.com/user-attachments/assets/ae356a8c-18e7-4a1e-9d5f-c898a5c30131)" width='50'> </h2>
+<h2> hi, i'm shashwat mishra!</h2>
+
 
  :love_letter: [shashwatmishra.me](http://shashwatmishra.me/)
 
