@@ -5,19 +5,17 @@
 
 welcome to my corner of the internet :computer:
 
-```javascript
-const shashwat = {
-  pronouns: ["he", "him"],
-  code: ["javascript", "typescript", "python", "c++", "html", "css"],
-  tools: ["react", "next.js", "tailwind", "mongodb", "node"],
-  school: ["university of cincinnati"],
-  clubs: {
-    "Society of Asian Scientists and Engineers (SASE) ": {
-      role: "Treasurer"
-    }
-  }
-}
-
+```c++
+class Shashwat {
+public:
+    std::string name = "Shashwat";
+    std::string role = "Software Engineer";
+    std::string school = "University of Cincinnati";
+    std::vector<std::string> languages = {"JavaScript", "TypeScript", "Python", "C++", "HTML", "CSS"};
+    std::vector<std::string> tools = {"React", "Next.js", "TailwindCSS", "MongoDB", "Node.js", "Express.js"};
+    std::string clubName = "Society of Asian Scientists and Engineers (SASE)";
+    std::string clubRole = "Treasurer";
+    std:vector<std:string> xp = {"SWE Intern @ Honeywell", "SWE Intern @ Possip"}
 ```
 
 
