@@ -8,14 +8,16 @@ welcome to my corner of the internet :computer:
 ```c++
 class Shashwat {
 public:
-    std::string name = "Shashwat";
-    std::string role = "Software Engineer";
-    std::string school = "University of Cincinnati";
-    std::vector<std::string> languages = {"JavaScript", "TypeScript", "Python", "C++", "HTML", "CSS"};
-    std::vector<std::string> tools = {"React", "Next.js", "TailwindCSS", "MongoDB", "Node.js", "Express.js"};
-    std::string clubName = "Society of Asian Scientists and Engineers (SASE)";
-    std::string clubRole = "Treasurer";
-    std:vector<std:string> xp = {"SWE Intern @ Honeywell", "SWE Intern @ Possip"}
+    string name = "Shashwat";
+    string role = "Software Engineer";
+    string school = "University of Cincinnati";
+    vector<std::string> languages = {"JavaScript", "TypeScript", "Python", "C++", "HTML", "CSS"};
+    vector<std::string> tools = {"React", "Next.js", "TailwindCSS", "MongoDB", "Node.js", "Express.js"};
+    string clubName = "Society of Asian Scientists and Engineers (SASE)";
+    string clubRole = "Treasurer";
+    vector<std:string> XPerience = {"SWE Intern @ Honeywell", "SWE Intern @ Possip"}
+    vector<std:string> hobbies = {"lego building", "collect digicams", "table tennis", "video games"}
+    
 ```
 
 
