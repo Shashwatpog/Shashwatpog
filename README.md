@@ -15,8 +15,9 @@ public:
     vector<string> tools = {"React", "Next.js", "TailwindCSS", "MongoDB", "Node.js", "Express.js"};
     string clubName = "Society of Asian Scientists and Engineers (SASE)";
     string clubRole = "Treasurer";
-    vector<string> XPerience = {"SWE Intern @ Honeywell", "SWE Intern @ Possip"}
-    vector<string> hobbies = {"lego building", "collect digicams", "table tennis", "video games"}
+    vector<string> XPerience = {"SWE Intern @ Honeywell", "SWE Intern @ Possip"};
+    vector<string> hobbies = {"lego building", "collect digicams", "table tennis", "video games"};
+};
     
 ```
 
