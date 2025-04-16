@@ -1,7 +1,7 @@
 <h2> hi, i'm shashwat mishra!</h2>
 
 
- :love_letter: [shashwatmishra.me](http://shashwatmishra.me/)
+ :love_letter: [shashwatmishra.vercel.app](https://shashwatmishra.vercel.app/)
 
 welcome to my corner of the internet :computer:
 
