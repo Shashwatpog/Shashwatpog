@@ -1,7 +1,6 @@
 <h2> hi, i'm shashwat mishra!</h2>
 
 
- :love_letter: [shashwatmishra.vercel.app](https://shashwatmishra.vercel.app/)
 
 welcome to my corner of the internet :computer:
 
@@ -11,11 +10,7 @@ public:
     string name = "Shashwat";
     string role = "Software Engineer";
     string school = "University of Cincinnati";
-    vector<string> languages = {"JavaScript", "TypeScript", "Python", "C++", "HTML", "CSS"};
-    vector<string> tools = {"React", "Next.js", "TailwindCSS", "MongoDB", "Node.js", "Express.js"};
-    string clubName = "Society of Asian Scientists and Engineers (SASE)";
-    string clubRole = "Treasurer";
-    vector<string> XPerience = {"SWE Intern @ Honeywell", "SWE Intern @ Possip"};
+    vector<string> XPerience = {"2x SWE Intern @ Honeywell", "SWE Intern @ Possip"};
     vector<string> hobbies = {"lego building", "collect digicams", "table tennis", "video games"};
 };
     
